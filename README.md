@@ -1,6 +1,6 @@
 This project contains the source code for the drone user interface. The generated javascript and css assets are embedded into a Go source file which is imported into the main drone application, using go get.
 
-## Building
+## Building Huy
 
 To compile the source and create minified css and javascript assets:
 
